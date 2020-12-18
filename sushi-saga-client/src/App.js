@@ -50,7 +50,7 @@ eatSushi = (e, sushi) => {
     }
   )}
 }
-
+ 
   render() {
     return (
       <div className="app">
